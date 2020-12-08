@@ -11,8 +11,8 @@ This is part of the Capstone Project for the Udacity Data Scientist nano degree 
 
 In this project, the demographics data was utilized, to identify the potential customers for the mail-order company, a client of Arvato Financial Services. A supervised machine learning model, the outcome of this project, aims to facilitate acquiring new customers more efficiently.
 
-In addition to this, I prepared a blog post on findings. [medium post](https://jinchaochen.medium.com/customer-segmentation-for-arvato-financial-services-e4fb73cb11de)
-
+In addition to this, I prepared a [blog post](https://jinchaochen.medium.com/customer-segmentation-for-arvato-financial-services-e4fb73cb11de) on findings. 
+ 
 ## Description<a name="descriptions"></a>
 The project is composed of three parts:
 
